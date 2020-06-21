@@ -23,8 +23,8 @@ namespace PTaller
                       "~/Scripts/bootstrap.js"));
 
             bundles.Add(new StyleBundle("~/Content/css").Include(
-                      "~/Content/bootstrap.css",
-                      "~/Content/site.css"));
+                      "~/Content/js/bootstrap.css",
+                      "~/Content/css/styles.css"));
         }
     }
 }

@@ -170,6 +170,7 @@
     <Content Include="Content\css\main.css" />
     <Content Include="Content\css\master.css" />
     <Content Include="Content\css\normalize.css" />
+    <Content Include="Content\css\site.css" />
     <Content Include="Content\css\styles.css" />
     <Content Include="Content\js\scripts.js" />
     <Content Include="favicon.ico" />
