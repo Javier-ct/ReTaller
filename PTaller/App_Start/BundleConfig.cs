@@ -24,7 +24,7 @@ namespace PTaller
 
             bundles.Add(new StyleBundle("~/Content/css").Include(
                       "~/Content/js/bootstrap.css",
-                      "~/Content/css/styles.css"));
+                      "~/Content/css/site.css"));
         }
     }
 }

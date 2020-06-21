@@ -5,13 +5,13 @@
     <!-- Diagram content (shape and connector positions) -->
     <edmx:Diagrams>
       <Diagram DiagramId="4fb3bd2520b84fcfad5c5a52b13ded91" Name="Diagram1">
-        <EntityTypeShape EntityType="ProyectoInacapModel.Bicicleta" Width="1.875" PointX="0.625" PointY="0.625" IsExpanded="true" />
-        <EntityTypeShape EntityType="ProyectoInacapModel.Cliente" Width="1.5" PointX="2.75" PointY="0.75" IsExpanded="true" />
-        <EntityTypeShape EntityType="ProyectoInacapModel.Estacionamiento" Width="1.5" PointX="2.75" PointY="2.75" IsExpanded="true" />
-        <EntityTypeShape EntityType="ProyectoInacapModel.Reporte" Width="1.5" PointX="4.75" PointY="0.75" IsExpanded="true" />
-        <EntityTypeShape EntityType="ProyectoInacapModel.sysdiagrams" Width="1.5" PointX="4.75" PointY="3.75" IsExpanded="true" />
-        <EntityTypeShape EntityType="ProyectoInacapModel.Trabajador" Width="1.5" PointX="0.875" PointY="4" IsExpanded="true" />
-        <EntityTypeShape EntityType="ProyectoInacapModel.Usuario" Width="1.5" PointX="6.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProyectoInacapModel.Bicicleta" Width="1.5" PointX="0.75" PointY="0.5" />
+        <EntityTypeShape EntityType="ProyectoInacapModel.Cliente" Width="1.5" PointX="2.75" PointY="0.5" />
+        <EntityTypeShape EntityType="ProyectoInacapModel.Estacionamiento" Width="1.5" PointX="2.75" PointY="2.5" />
+        <EntityTypeShape EntityType="ProyectoInacapModel.Reporte" Width="1.5" PointX="4.75" PointY="0.5" />
+        <EntityTypeShape EntityType="ProyectoInacapModel.sysdiagrams" Width="1.5" PointX="4.75" PointY="3.5" />
+        <EntityTypeShape EntityType="ProyectoInacapModel.Trabajador" Width="1.5" PointX="0.75" PointY="5.5" />
+        <EntityTypeShape EntityType="ProyectoInacapModel.Usuario" Width="1.5" PointX="6.75" PointY="0.5" />
       </Diagram>
     </edmx:Diagrams>
   </edmx:Designer>
